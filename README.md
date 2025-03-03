@@ -19,7 +19,6 @@ This project analyzes **customer purchasing behavior** using a dataset of **25,0
 
 ## 📂 Files
 - `customer_behavior_analysis.ipynb` - Data cleaning, clustering, and silhouette score analysis.
-- `customer_behavior_dashboard.twbx` - Tableau packaged workbook.
 
 ## 📌 How to Use
 1. Open `customer_behavior_analysis.ipynb` in Jupyter Notebook to explore data processing and clustering.
