@@ -15,14 +15,14 @@ This project analyzes **customer purchasing behavior** using a dataset of **25,0
 - **Silhouette Scores**: Used to evaluate the optimal number of clusters.
 
 ## 📈 Tableau Dashboard
-🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/authoring/CustomerBehaviorDashboardInsightsforTargetedMarketing/Dashboard1#1)**
+🔗 **[View the Interactive Tableau Dashboard]([https://public.tableau.com/authoring/CustomerBehaviorDashboardInsightsforTargetedMarketing/Dashboard1#1](https://public.tableau.com/app/profile/shrutaswini.borkakoty/viz/CustomerBehaviorDashboardInsightsforTargetedMarketing/Dashboard1))**
 
-## 📂 Files
-- `customer_behavior_analysis.ipynb` - Data cleaning, clustering, and silhouette score analysis.
+
 
 ## 📌 How to Use
 1. Open `customer_behavior_analysis.ipynb` in Jupyter Notebook to explore data processing and clustering.
-2. Check the **Tableau Public link** for interactive visualizations.
+2. Open `Customer Behavior Dashboard_ Insights for Targeted Marketing.twbx`in Tableau workbook to view the interactive dashboard
+3. Check the **Tableau Public link** for interactive visualizations.
 
 ## 🏆 Results & Learnings
 - Clustering helped identify **high-value customer segments**.
