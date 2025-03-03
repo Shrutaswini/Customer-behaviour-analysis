@@ -23,8 +23,7 @@ This project analyzes **customer purchasing behavior** using a dataset of **25,0
 
 ## 📌 How to Use
 1. Open `customer_behavior_analysis.ipynb` in Jupyter Notebook to explore data processing and clustering.
-2. Use `customer_behavior_dashboard.twbx` to view and modify the Tableau dashboard.
-3. Check the **Tableau Public link** for interactive visualizations.
+2. Check the **Tableau Public link** for interactive visualizations.
 
 ## 🏆 Results & Learnings
 - Clustering helped identify **high-value customer segments**.
